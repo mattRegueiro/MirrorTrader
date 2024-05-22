@@ -1,0 +1,9 @@
+/.DS_Store
+/logs/*
+/reports/*
+/source/cryptor/__pycache__
+/source/mirror_trader/__pycache__
+/trackers/*
+/cryptor_key.key
+/did.bin
+/profile_copy.config
